@@ -1,0 +1,16 @@
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\bin\Debug\net5.0\ProjectA012.exe
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\bin\Debug\net5.0\ProjectA012.deps.json
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\bin\Debug\net5.0\ProjectA012.runtimeconfig.json
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\bin\Debug\net5.0\ProjectA012.runtimeconfig.dev.json
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\bin\Debug\net5.0\ProjectA012.dll
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\bin\Debug\net5.0\ProjectA012.pdb
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.csproj.AssemblyReference.cache
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.AssemblyInfoInputs.cache
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.AssemblyInfo.cs
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.dll
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\refint\ProjectA012.dll
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.pdb
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ProjectA012.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\workplace\prn211-projects\SE1611_PRU211m_A01_PhamTrongThanh\ProjectA012\obj\Debug\net5.0\ref\ProjectA012.dll
