@@ -35,7 +35,7 @@ namespace ProjectA011
                 // and the comment below. You can of
                 // course add more space between the
                 // comments as needed
-                float distance = (float)Math.Sqrt(Math.Pow(point1X - point2X, 2) 
+                float distance = (float)Math.Sqrt(Math.Pow(point1X - point2X, 2)
                     + Math.Pow(point1Y - point2Y, 2));
                 distance = (float)Math.Round(distance, 6);
                 float angle = (float)(Math.Atan2(point2Y - point1Y, point2X - point1X) * 180 / Math.PI);
